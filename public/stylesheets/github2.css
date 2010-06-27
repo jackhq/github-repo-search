@@ -1,0 +1,168 @@
+.repo {
+  margin: 20px;
+}
+
+.repo .repo-bubble {
+  padding: 20px;
+  background: #eee;
+}
+
+.repo .repo-content p {
+  margin-top: 10px;
+}
+/*
+.repo-bubble > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height:100px;
+    width: 100%;
+    -webkit-border-radius: 4px;
+}
+
+.repo .x-repoanchor {
+    width: 14px;
+    height: 14px;
+    background-color: #eee;
+    top: 10px;
+    left: 66px;
+    z-index: -1;
+    position: absolute;
+    -webkit-transform: rotate(45deg);
+}
+
+.repo .repo-active .x-repoanchor {
+    background-color: #111;
+}
+
+.repo .repo-content {
+    padding: 15px;
+    z-index: 1;
+    background: #eee;
+    color: #444;
+    text-shadow: #fff 0 1px 0;
+}
+
+.repo .repo-content h2 {
+    font-weight: bold;
+    color: #111;
+}
+
+.repo .x-toolbar-actions {
+    background-color: #111;
+    z-index: 0;
+    border: 1px solid #444;
+}
+
+.repo .x-toolbar-actions .x-button {
+    height: 100px;
+    width: 100px;
+    border-right: 1px solid #fff;
+}
+
+.repo .x-toolbar-actions .x-button img {
+    width: 100px;
+    height: 100px;
+}
+
+.x-example {
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.x-example-list {
+    background-image: url(favorites/list.png);
+}
+
+.x-example-buttons1 {
+    background-image: url(favorites/buttons1.png);
+}
+
+.x-example-form {
+    background-image: url(favorites/form.png);
+}
+
+.x-example-datepicker {
+    background-image: url(favorites/datepicker.png);
+}
+
+.x-example-buttons2 {
+    background-image: url(favorites/buttons2.png);
+}
+
+.x-example-tabs {
+    background-image: url(favorites/tabs.png);
+}
+
+.icon-refresh {
+    background-image: url(icons/refresh.png);
+}
+.icon-user {
+    background-image: url(icons/user.png);
+}
+.icon-compose {
+    background-image: url(icons/compose.png);
+}
+.icon-alltweets {
+    background-image: url(icons/alltweets.png);
+}
+.icon-mentions {
+    background-image: url(icons/mentions.png);
+}
+.icon-messages {
+    background-image: url(icons/messages.png);
+}
+.icon-favorites {
+    background-image: url(icons/favorite.png);
+}
+.icon-nearby {
+    background-image: url(icons/nearby.png);
+}
+.icon-saved {
+    background-image: url(icons/saved.png);
+}
+.icon-reply {
+    background-image: url(icons/reply.png);
+}
+.icon-profile {
+    background-image: url(icons/profile.png);
+}
+.icon-attachment {
+    background-image: url(icons/attachment.png);
+}
+.icon-forward {
+    background-image: url(icons/forward.png);
+}
+.icon-markasfavorite {
+    background-image: url(icons/markasfavorite.png);
+}
+.x-map {
+    background-color: #edeae2;
+}
+
+.x-carousel-body {
+    background-color: #000;
+}
+
+.x-video {
+    background-color: #000;
+}
+
+.posted {
+    display: none;
+}
+
+.close {
+    color: #333;
+    background-color: #eee;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+.twitter-search-bar .x-button.x-view-selected {
+    background-color: #eee;
+}
+*/
