@@ -23,12 +23,11 @@ github.About: Ext.extend Ext.Panel, {
     items: [{
         style: 'padding: 10px;'
         html: """
-          <p>The Github app is a simple demonstration of the Ext.data package.</p>'
-          <p>The left menu bar features a very simple DataView (see views/search_bar.js) which uses'
-          a Store with a LocalStorageProxy to save recent searches locally. These then return when you refresh the page</p>'
-          <p>The central pane is also a DataView, this time using a Store which is bound to a ScriptTagProxy - see src/github_proxy.js.</p>'
-          <p>Finally, two simple Models are defined (see models/Repo.js and models/search.js). These are used by the timeLine and'
-          the search_bar respectively for saving and retrieving GitHub Repos and saved Searches.</p>
+          <h1>Github Repository Search Application</h1>
+          <p>This is a sample application that performs a repo search for github repositories.  It is using Sencha Touch Technologies and the Github repo api to find repos about certain technologies.</p>
+          <h1>Why</h2>
+          <h2>We love reading source code, and a great device to read it on is the iPad, it would be nice to have an HTML 5 application that works on the ipad to search and browse the github repositories to easily locate repositories of interest.</h2>
+
       """
     }]
 }
