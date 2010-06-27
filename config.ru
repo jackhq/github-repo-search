@@ -9,11 +9,11 @@ rescue LoadError
 end
 
 require 'app'
-require 'rack/coffee'
-use Rack::Coffee, {
-  :root => "./public",
-  :nowrap => true
-}
+# require 'rack/coffee'
+# use Rack::Coffee, {
+#   :root => "./public",
+#   :nowrap => true
+# }
 
 
 run Sinatra::Application
