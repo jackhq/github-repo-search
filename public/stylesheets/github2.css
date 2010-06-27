@@ -5,10 +5,43 @@
 .repo .repo-bubble {
   padding: 20px;
   background: #eee;
+  -webkit-border-radius: 4px;
+  -webkit-box-shadow: 2px 2px 8px rgba(0,0,0,0.7)
+  -moz-box-shadow: 2px 2px 8px rgba(0,0,0,0.7)
+  
+
+}
+
+.repo .repo-bubble:hover {
+  border: 1px solid #000;
+
 }
 
 .repo .repo-content p {
   margin-top: 10px;
+  color: rgba(0,0,0,0.6);
+}
+
+.repo-content span {
+  float: right;
+}
+
+.repo-content:after {
+  clear: both;
+  content: ' ';
+  display: block;
+  font-size: 0;
+  line-height: 0;
+  visibility: hidden;
+  width: 0;
+  height: 0
+}
+
+.repo-content a {
+  text-decoration: none;
+  color: #000080;
+  font-size: 2em;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
 }
 /*
 .repo-bubble > div {

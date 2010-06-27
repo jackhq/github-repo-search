@@ -28,7 +28,7 @@
     items: [
       {
         style: 'padding: 10px;',
-        html: "          <h1>Github Repository Search Application</h1>\n          <p>This is a sample application that performs a repo search for github repositories.  It is using Sencha Touch Technologies and the Github repo api to find repos about certain technologies.</p>\n          <h1>Why</h2>\n          <h2>We love reading source code, and a great device to read it on is the iPad, it would be nice to have an HTML 5 application that works on the ipad to search and browse the github repositories to easily locate repositories of interest.</h2>\n"
+        html: "<h1>Github Repository Search Application</h1>\n<p>This is a sample application that performs a \nrepo search for github repositories.  It is using \nSencha Touch Technologies and the Github repo api \nto find repos about certain technologies.</p>\n<h2>Why</h2>\n<p>We love reading source code, and the iPad is a great device \nto read.  We thought it would be nice to have \nan HTML 5 application that works on the ipad to search \nand browse the github repositories to easily locate \nrepositories of interest.</p>\n<h2>\n<img src=\"http://jackhq.s3.amazonaws.com/images/jackhq.png\" />\n<p>Jack Russell Software Company, LLC</p>\n<a href=\"http://jackhq.com\">www.jackhq.com</a>"
       }
     ]
   });
