@@ -34,6 +34,16 @@ github.About: Ext.extend Ext.Panel, {
           an HTML 5 application that works on the ipad to search 
           and browse the github repositories to easily locate 
           repositories of interest.</p>
+          <h2>Sencha Touch</h2>
+          <p>This application was built using Sencha Touch Public Beta! 
+          Please check it out <a href="http://www.sencha.com">http://www.sencha.com</a></p>
+          <h2>CoffeeScript</h2>
+          <p>This application was written in coffee-script, check it out at 
+          <a href="http://coffeescript.org">http://cofffeescript.org</a></p>
+          <h2>Get the Source</h2>
+          <p>You can download the source at 
+          <a href="http://github.com/jackhq/github-repo-search">
+          http://github.com/jackhq/github-repo-search</a></p>
           <h2>
           <img src="http://jackhq.s3.amazonaws.com/images/jackhq.png" />
           <p>Jack Russell Software Company, LLC</p>
