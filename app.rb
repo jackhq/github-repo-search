@@ -21,7 +21,7 @@ get '/application.manifest' do
   content_type "text/cache-manifest"
   %Q{
 CACHE MANIFEST
-#rev2
+#rev3
 
 stylesheets/ext-touch.css
 stylesheets/github.css
