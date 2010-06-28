@@ -1,10 +1,8 @@
-(function(){
-  Ext.regModel('Search', {
-    fields: [
-      {
-        name: 'query',
-        type: 'string'
-      }
-    ]
-  });
-})();
+Ext.regModel('Search', {
+  fields: [
+    {
+      name: 'query',
+      type: 'string'
+    }
+  ]
+});
